@@ -1,7 +1,7 @@
 class Strings {
-  static telegram = "Telegram";
-  static telegramLink = "https://telegram.me/nixrajput";
-  static telegramUsername = "nixrajput";
+  static whatsApp = "WhatsApp";
+  static whatsAppLink = "https://wa.me/919175143596";
+  static whatsAppUsername = "919175143596";
 
   static github = "GitHub";
   static githubLink = "https://www.github.com/sandipbisen08";

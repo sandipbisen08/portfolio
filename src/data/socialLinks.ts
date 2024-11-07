@@ -1,11 +1,12 @@
 import {
   faGithub,
   faLinkedin,
-  faTelegram,
+  // faTelegram,
   faInstagram,
   faXTwitter,
+  faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import { faEnvelope, faW } from "@fortawesome/free-solid-svg-icons";
 import Strings from "@/constants/strings";
 import type { ISocialLinkItem } from "@/types";
 
@@ -23,10 +24,10 @@ const socialLinks: ISocialLinkItem[] = [
     text: Strings.linkedInUsername,
   },
   {
-    name: Strings.telegram,
-    url: Strings.telegramLink,
-    icon: faTelegram,
-    text: Strings.telegramUsername,
+    name: Strings.whatsApp,
+    url: Strings.whatsAppLink,
+    icon: faWhatsapp,
+    text: Strings.whatsAppUsername,
   },
   {
     name: Strings.instagram,
