@@ -2,8 +2,8 @@ import { IExperienceItem } from "@/types";
 
 const experiences: IExperienceItem[] = [
   {
-    designation: "Software Development Engineer",
-    company: "StarApps Studio",
+    designation: "Software Engineer",
+    company: "Relfor Labs Pvt ltd",
     startDate: "Jul 2024",
     isCurrentJob: true,
     location: "Pune, India",

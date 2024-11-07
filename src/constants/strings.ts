@@ -4,24 +4,24 @@ class Strings {
   static telegramUsername = "nixrajput";
 
   static github = "GitHub";
-  static githubLink = "https://www.github.com/nixrajput";
-  static githubUsername = "nixrajput";
+  static githubLink = "https://www.github.com/sandipbisen08";
+  static githubUsername = "sandipbisen08";
 
   static linkedIn = "LinkedIn";
-  static linkedInLink = "https://www.linkedin.com/in/nixrajput";
-  static linkedInUsername = "nixrajput";
+  static linkedInLink = "https://www.linkedin.com/in/sandip-bisen-50258612b";
+  static linkedInUsername = "Sandip Bisen";
 
   static instagram = "Instagram";
-  static instagramLink = "https://www.instagram.com/nixrajput";
-  static instagramUsername = "nixrajput";
+  static instagramLink = "https://www.instagram.com/sandipbisen08";
+  static instagramUsername = "sandipbisen08";
 
   static twitter = "Twitter";
   static twitterLink = "https://www.twitter.com/nixrajput07";
   static twitterUsername = "nixrajput07";
 
   static email = "Email";
-  static primaryEmailLink = "mailto:nkr.nikhil.nkr@gmail.com";
-  static primaryEmail = "nkr.nikhil.nkr@gmail.com";
+  static primaryEmailLink = "mailto:sandipofficial15@gmail.com";
+  static primaryEmail = "sandipofficial15@gmail.com";
 
   static buyMeACoffee = "BuyMeACoffee";
   static buyMeACoffeeLink = "https://buymeacoffee.com/nixrajput";

@@ -20,11 +20,10 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
             <p className="text-2xl/normal sm:text-3xl/normal md:text-5xl/normal lg:text-6xl/normal xl:text-7xl/normal dark:text-[var(--textColor)] text-[var(--textColor)] font-bold text-center">
               Hi there, I am
             </p>
-            SANDEEEEPPP
-            {/* <FlipWords
-              words={["Nikhil Rajput.", "@nixrajput."]}
+            <FlipWords
+              words={["Sandip Bisen.", "@sandipbisen."]}
               className="text-2xl/normal sm:text-3xl/normal md:text-5xl/normal lg:text-6xl/normal xl:text-7xl/normal dark:text-[var(--primaryColor)] text-[var(--primaryColor)] font-bold text-center"
-            /> */}
+            />
           </div>
           <p className="text-sm/normal md:text-base/normal dark:text-[var(--textColorLight)] text-[var(--textColorLight)]">
             Full Stack Developer 💻 SDE 🛠️ Open Source 🌍
