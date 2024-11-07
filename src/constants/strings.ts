@@ -31,7 +31,7 @@ class Strings {
   static koFiLink = "https://ko-fi.com/nixrajput";
   static koFiUsername = "nixrajput";
 
-  static fullName = "Nikhil Rajput";
+  static fullName = "Sandip Bisen";
   static shortName = "nixrajput";
 }
 
