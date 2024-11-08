@@ -16,23 +16,23 @@ class Strings {
   static instagramUsername = "sandipbisen08";
 
   static twitter = "Twitter";
-  static twitterLink = "https://www.twitter.com/nixrajput07";
-  static twitterUsername = "nixrajput07";
+  static twitterLink = "https://www.twitter.com/BisenSandi32020";
+  static twitterUsername = "SANDIP BISEN";
 
   static email = "Email";
   static primaryEmailLink = "mailto:sandipofficial15@gmail.com";
   static primaryEmail = "sandipofficial15@gmail.com";
 
   static buyMeACoffee = "BuyMeACoffee";
-  static buyMeACoffeeLink = "https://buymeacoffee.com/nixrajput";
-  static buyMeACoffeeUsername = "nixrajput";
+  static buyMeACoffeeLink = "https://buymeacoffee.com/sandipbisen";
+  static buyMeACoffeeUsername = "sandipbisen";
 
   static koFi = "Ko-Fi";
-  static koFiLink = "https://ko-fi.com/nixrajput";
-  static koFiUsername = "nixrajput";
+  static koFiLink = "https://ko-fi.com/sandipbisen";
+  static koFiUsername = "sandipbisen";
 
   static fullName = "Sandip Bisen";
-  static shortName = "nixrajput";
+  static shortName = "sandipbisen";
 }
 
 export default Strings;

@@ -9,8 +9,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/flutter.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/social-media-app-flutter",
-    url: "https://github.com/nixrajput/social-media-app-flutter/releases",
+    githubUrl: "https://github.com/sandipbisen/social-media-app-flutter",
+    url: "https://github.com/sandipbisen/social-media-app-flutter/releases",
     tags: ["Flutter", "Dart", "GetX", "Hive"],
   },
   {
@@ -21,7 +21,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/ecommerce-web-reactjs",
+    githubUrl: "https://github.com/sandipbisen/ecommerce-web-reactjs",
     url: "https://nixlab-shop.vercel.app",
     tags: ["React.js", "Redux", "Material UI", "Stripe"],
   },
@@ -33,8 +33,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/flutter.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/video-calling-app-flutter",
-    url: "https://github.com/nixrajput/video-calling-app-flutter/releases",
+    githubUrl: "https://github.com/sandipbisen/video-calling-app-flutter",
+    url: "https://github.com/sandipbisen/video-calling-app-flutter/releases",
     tags: ["Flutter", "Dart", "GetX", "Agora SDK"],
   },
   {
@@ -45,7 +45,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/nestjs.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/social-media-api-nodejs",
+    githubUrl: "https://github.com/sandipbisen/social-media-api-nodejs",
     tags: ["Node.js", "Express.js", "MongoDB", "WebSocket"],
   },
   {
@@ -56,8 +56,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/flutter.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/grocery-list-maker-flutter",
-    url: "https://github.com/nixrajput/grocery-list-maker-flutter/releases/latest",
+    githubUrl: "https://github.com/sandipbisen/grocery-list-maker-flutter",
+    url: "https://github.com/sandipbisen/grocery-list-maker-flutter/releases/latest",
     tags: ["Flutter", "Dart", "BLoC", "PDF", "Hive"],
   },
   {
@@ -68,7 +68,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/nodejs.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/ecommerce-api-nodejs",
+    githubUrl: "https://github.com/sandipbisen/ecommerce-api-nodejs",
     tags: ["Node.js", "Express.js", "MongoDB", "Stripe"],
   },
   {
@@ -79,7 +79,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/flutter.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/flutter-carousel-widget-package",
+    githubUrl: "https://github.com/sandipbisen/flutter-carousel-widget-package",
     tags: ["Flutter", "Dart", "Carousel"],
   },
   {
@@ -90,7 +90,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/dart.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/gettimeago",
+    githubUrl: "https://github.com/sandipbisen/gettimeago",
     tags: ["Dart", "DateTime", "Formatting"],
   },
   {
@@ -101,8 +101,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/nextjs.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/portfolio-website",
-    url: "https://nixrajput.dev",
+    githubUrl: "https://github.com/sandipbisen/portfolio-website",
+    url: "https://sandipbisen.dev",
     tags: ["Next.js", "Sass", "Web Development"],
   },
   {
@@ -113,7 +113,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/cpp.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/bus-reservation-system",
+    githubUrl: "https://github.com/sandipbisen/bus-reservation-system",
     tags: ["C++", "OOP", "File Handling"],
   },
 ];

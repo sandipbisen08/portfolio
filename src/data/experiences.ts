@@ -4,7 +4,7 @@ const experiences: IExperienceItem[] = [
   {
     designation: "Software Engineer",
     company: "Relfor Labs Pvt ltd",
-    startDate: "Jul 2024",
+    startDate: "Nov 2023",
     isCurrentJob: true,
     location: "Pune, India",
     description: [
@@ -15,10 +15,10 @@ const experiences: IExperienceItem[] = [
     ],
   },
   {
-    designation: "Full Stack Developer",
-    company: "Merito",
-    startDate: "Feb 2023",
-    endDate: "Jul 2024",
+    designation: "Software Engineer",
+    company: "Devourin",
+    startDate: "Jan 2023",
+    endDate: "Nov 2023",
     isCurrentJob: false,
     location: "Pune, India",
     description: [
@@ -29,25 +29,25 @@ const experiences: IExperienceItem[] = [
       "Demonstrated expertise in both backend and frontend development.",
     ],
   },
+  // {
+  //   designation: "Full Stack Development Intern",
+  //   company: "TECHOX LLP",
+  //   startDate: "May 2021",
+  //   endDate: "Jul 2022",
+  //   isCurrentJob: false,
+  //   location: "Remote",
+  //   description: [
+  //     "Revamped and enhanced 3+ mobile apps using Flutter.",
+  //     "Deployed RESTful APIs for seamless app-server integration.",
+  //     "Integrated Google AdMob to effectively monetize applications.",
+  //     "Contributed to boosting app functionality and revenue generation.",
+  //   ],
+  // },
   {
-    designation: "Full Stack Development Intern",
-    company: "TECHOX LLP",
-    startDate: "May 2021",
-    endDate: "Jul 2022",
-    isCurrentJob: false,
-    location: "Remote",
-    description: [
-      "Revamped and enhanced 3+ mobile apps using Flutter.",
-      "Deployed RESTful APIs for seamless app-server integration.",
-      "Integrated Google AdMob to effectively monetize applications.",
-      "Contributed to boosting app functionality and revenue generation.",
-    ],
-  },
-  {
-    designation: "Web Development Intern",
-    company: "Career Corner Education Pvt Ltd",
-    startDate: "Jul 2021",
-    endDate: "Nov 2021",
+    designation: "Web Developer",
+    company: "Devourin",
+    startDate: "Feb 2022",
+    endDate: "Jan 2023",
     isCurrentJob: false,
     location: "Remote",
     description: [
