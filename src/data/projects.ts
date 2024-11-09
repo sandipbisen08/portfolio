@@ -3,14 +3,14 @@ import { IProjectItem, ProjectType, RepoType } from "@/types";
 const projects: IProjectItem[] = [
   {
     id: "social-media-app-flutter",
-    title: "Social Media App",
+    title: "Restaurant App",
     description:
       "A social media mobile application developed using Flutter, GetX, Firebase Notifications and Hive.",
     icon: "/skills/flutter.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/sandipbisen/social-media-app-flutter",
-    url: "https://github.com/sandipbisen/social-media-app-flutter/releases",
+    // githubUrl: "https://github.com/sandipbisen/social-media-app-flutter",
+    url: "https://grilli-git-main-sandips-projects-d8740d41.vercel.app/",
     tags: ["Flutter", "Dart", "GetX", "Hive"],
   },
   {
