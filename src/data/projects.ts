@@ -22,7 +22,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     // githubUrl: "https://github.com/sandipbisen/ecommerce-web-reactjs",
-    url: "https://vercel.com/sandips-projects-d8740d41/ginger-next",
+    url: "https://ginger-next-git-main-sandips-projects-d8740d41.vercel.app/",
     tags: ["React.js", "Redux", "Material UI", "Stripe"],
   },
   {
