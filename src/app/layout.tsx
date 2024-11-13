@@ -27,7 +27,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Sandip Bisen",
   description:
-    "Sandip Bisen is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Sandip Bisen is a proficient Software Engineer from India, skilled in front-end development and backend integration. With expertise in React, Next.js, and MongoDB, he creates innovative software solutions. Explore his portfolio for a glimpse of his work and experience.",
   robots: {
     index: true,
     follow: true,
@@ -41,25 +41,25 @@ export const metadata: Metadata = {
   },
   icons: [
     {
-      url: "/favicon-16x16.ico",
+      url: "/favicon-16x16.png",
       rel: "icon",
       sizes: "16x16",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-32x32.ico",
+      url: "/SB-32x32.png",
       rel: "icon",
       sizes: "32x32",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-48x48.ico",
+      url: "/favicon-48x48.png",
       rel: "icon",
       sizes: "48x48",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-64x64.ico",
+      url: "/favicon-64x64.png",
       rel: "icon",
       sizes: "64x64",
       type: "image/x-icon",
@@ -67,15 +67,23 @@ export const metadata: Metadata = {
   ],
   keywords: [
     "Sandip Bisen",
-    "nikhil",
+    "sandip",
     "sandipbisen",
-    "nikhil-rajput",
-    "rajput nikhil",
-    "founder of nixlab",
-    "nixlab founder",
+    "sandip-bisen",
+    "bisen sandip",
+    "founder of hitchki meals",
+    "founder of hitchkimeals",
+    "hitchki meals founder",
     "full stack developer",
+    "frontend developer",
     "indian developer",
     "sandipbisen github",
+    "freelancer",
+    "website maker",
+    "website design",
+    "sandipbisen website",
+    "sandipbisen portfolio",
+    "sandipbisen personal portfolio",
   ],
 };
 
