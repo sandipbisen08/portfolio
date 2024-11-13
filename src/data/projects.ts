@@ -10,7 +10,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     // githubUrl: "https://github.com/sandipbisen/social-media-app-flutter",
-    url: "https://grilli-git-main-sandips-projects-d8740d41.vercel.app/",
+    url: "https://hitchkimeals.vercel.app/",
     tags: ["HTML", "CSS", "JavaScript"],
   },
   {

@@ -1,26 +1,7 @@
 import { ISkillListItem, SkillLevel } from "@/types";
 
 const skills: ISkillListItem[] = [
-  {
-    title: "Programming Languages",
-    items: [
-      {
-        title: "JavaScript",
-        level: SkillLevel.Expert,
-        icon: "/skills/javascript.svg",
-      },
-      {
-        title: "TypeScript",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/typescript.svg",
-      },
-      // {
-      //   title: "Dart",
-      //   level: SkillLevel.Expert,
-      //   icon: "/skills/dart.svg",
-      // },
-    ],
-  },
+  
   {
     title: "Frontend Development",
     items: [
@@ -53,6 +34,26 @@ const skills: ISkillListItem[] = [
       //   title: "Redux Toolkit",
       //   level: SkillLevel.Expert,
       //   icon: "/skills/redux.svg",
+      // },
+    ],
+  },
+  {
+    title: "Programming Languages",
+    items: [
+      {
+        title: "JavaScript",
+        level: SkillLevel.Expert,
+        icon: "/skills/javascript.svg",
+      },
+      {
+        title: "TypeScript",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/typescript.svg",
+      },
+      // {
+      //   title: "Dart",
+      //   level: SkillLevel.Expert,
+      //   icon: "/skills/dart.svg",
       // },
     ],
   },
