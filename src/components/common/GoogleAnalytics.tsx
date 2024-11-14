@@ -3,7 +3,17 @@ import Script from "next/script";
 
 const GoogleAnalytics = () => (
   <>
-    <Script
+  <Script async src="https://www.googletagmanager.com/gtag/js?id=G-WBRDE7HM79"></Script>
+<Script>
+  {`
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WBRDE7HM79');
+  `}
+</Script>
+    {/* <Script
       strategy="afterInteractive"
       src={`https://www.googletagmanager.com/gtag/js?id=${LocalConfig.values.NEXT_PUBLIC_GTAG_ID}`}
     />
@@ -16,7 +26,7 @@ const GoogleAnalytics = () => (
           page_path: window.location.pathname,
         });
       `}
-    </Script>
+    </Script> */}
   </>
 );
 
