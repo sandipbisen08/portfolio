@@ -10,7 +10,7 @@ const GoogleAnalytics = () => (
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-WBRDE7HM79');
+  gtag('config', 'G-WBRDE7HM79',{page_path: window.location.pathname});
   `}
 </Script>
     {/* <Script
