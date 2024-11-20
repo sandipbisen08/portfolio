@@ -18,11 +18,20 @@ module.exports = {
     extend: {
       animation: {
         move: "move 5s linear infinite",
+        aurora: "aurora 60s linear infinite",
       },
       keyframes: {
         move: {
           "0%": { transform: "translateX(-200px)" },
           "100%": { transform: "translateX(200px)" },
+        },
+        aurora: {
+          from: {
+            backgroundPosition: "50% 50%, 50% 50%",
+          },
+          to: {
+            backgroundPosition: "350% 50%, 350% 50%",
+          },
         },
       },
     },
