@@ -4,6 +4,7 @@ import GridBox from "@/components/core/GridBox";
 import SectionTitle from "@/components/common/SectionTitle";
 import SkillItem from "./ui/SkillItem";
 import skills from "@/data/skills";
+import { BackgroundLines } from "../common/background-lines";
 
 const HomeSection4 = ({ id }: { id: string }) => {
   return (
@@ -11,6 +12,7 @@ const HomeSection4 = ({ id }: { id: string }) => {
       classNames="dark:bg-[var(--dialogColor)] bg-[var(--dialogColor)] min-h-screen items-center justify-center dark:bg-dot-white/[0.15] bg-dot-white/[0.15]"
       id={id}
     >
+      <BackgroundLines>
       <ConstrainedBox classNames="p-4 py-16">
         <SectionTitle>Skills</SectionTitle>
 
@@ -20,6 +22,7 @@ const HomeSection4 = ({ id }: { id: string }) => {
           })}
         </GridBox>
       </ConstrainedBox>
+      </BackgroundLines>
     </ResponsiveBox>
   );
 };

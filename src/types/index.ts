@@ -49,6 +49,7 @@ export interface IProjectItem {
   tags?: string[];
   screenshots?: string[];
   about?: string;
+  preview: string;
 }
 
 export type IServiceItem = {
