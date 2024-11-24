@@ -23,7 +23,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
               Hi there, I'm
             </p>
             <FlipWords
-              words={["Sandip Bisen.", "Frontend Developer.", "UI Developer.", "Web Developer."]}
+              words={["Sandip Bisen.", "Frontend Dev.", "UI Developer.", "Web Developer."]}
               className="text-2xl/normal sm:text-3xl/normal md:text-5xl/normal lg:text-6xl/normal xl:text-7xl/normal dark:text-[var(--primaryColor)] text-[var(--primaryColor)] font-bold text-center"
             />
           </div>
@@ -37,7 +37,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
         </Column>
 
         <div className="mt-12 lg:mt-16 w-full flex flex-col items-center">
-          <p className="text-base/6 font-medium">Follow me here</p>
+          <p className="text-base/6 font-medium dark:text-[var(--textColorLight)]">Follow me here</p>
 
           <Row classNames="mt-2 gap-2">
             {socialLinks.slice(0, 5).map((link, index) => {

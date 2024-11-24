@@ -37,9 +37,9 @@ const HomeSection6 = ({ id }: { id: string }) => {
             <span className="text-[var(--primaryColor)]">available</span> for
             freelancing.
           </p> */}
-          <p className="text-center mx-auto mt-16 text-2xl/6 font-semibold">
+          <p className="text-center mx-auto mt-16 text-2xl/6">
           © 2024. All rights reserved by{" "}
-            <span className="text-[var(--primaryColor)]">Sandip Bisen.</span>
+            <span className="text-[var(--primaryColor)] font-bold">Sandip Bisen.</span>
           </p>
         </Column>
       </ConstrainedBox>
