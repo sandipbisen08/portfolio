@@ -81,7 +81,7 @@ export interface ISkillItem {
 export interface ISocialLinkItem {
   url: string;
   icon: IconDefinition | string;
-  // text: string;
+  text: string;
   name?: string;
 }
 
