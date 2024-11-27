@@ -3,7 +3,7 @@ import { IProjectItem, ProjectType, RepoType } from "@/types";
 const projects: IProjectItem[] = [
   {
     id: "social-media-app-flutter",
-    title: "Restaurant App",
+    title: "Restaurant Website",
     description:
       "A restaurant web application developed using HTML, CSS, JavaScript, Firebase Notifications and Hive.",
     icon: "/skills/flutter.svg",
@@ -12,10 +12,11 @@ const projects: IProjectItem[] = [
     // githubUrl: "https://github.com/sandipbisen/social-media-app-flutter",
     url: "https://hitchkimeals.vercel.app/",
     tags: ["HTML", "CSS", "JavaScript"],
+    // preview:"https://pro.aceternity.com/_next/image?url=https%3A%2F%2Fassets.aceternity.com%2Ftemplates%2Fproactiv-screenshot-1.png&w=1080&q=75"
   },
   {
     id: "e-commerce-app-mern",
-    title: "Salon App",
+    title: "Salon Website",
     description:
       "A Salon web application developed using React.js, Material UI, Redux, and Stripe.",
     icon: "/skills/react.svg",
@@ -24,6 +25,7 @@ const projects: IProjectItem[] = [
     // githubUrl: "https://github.com/sandipbisen/ecommerce-web-reactjs",
     url: "https://ginger-next-git-main-sandips-projects-d8740d41.vercel.app/",
     tags: ["React.js", "Redux", "Material UI", "Stripe"],
+    // preview:"https://pro.aceternity.com/_next/image?url=https%3A%2F%2Fassets.aceternity.com%2Ftemplates%2Fai-saas-1.png&w=1080&q=75"
   },
   {
     id: "video-calling-app-flutter",
@@ -36,6 +38,7 @@ const projects: IProjectItem[] = [
     // githubUrl: "https://github.com/sandipbisen/video-calling-app-flutter",
     url: "https://bisensons.framer.ai",
     tags: ["Framer"],
+    // preview:"https://pro.aceternity.com/_next/image?url=https%3A%2F%2Fassets.aceternity.com%2Ftemplates%2Fstartup-2.webp&w=1080&q=75"
   },
   {
     id: "social-media-api-nodejs",
@@ -48,6 +51,7 @@ const projects: IProjectItem[] = [
     // githubUrl: "https://github.com/sandipbisen/social-media-api-nodejs",
     url: "https://sandipport.framer.ai/",
     tags: ["Framer"],
+    // preview:"/images/Screenshot 2024-10-29 002920.png"
   },
   // {
   //   id: "grocery-list-maker-app-flutter",
@@ -98,14 +102,29 @@ const projects: IProjectItem[] = [
     id: "Construction-website",
     title: "Construction Website",
     description:
-      "This repository is an under development website for a construction company. It will be updated soon.",
+      "A construction web application developed using HTML, CSS, JavaScript, Firebase Notifications and Hive.",
     icon: "/skills/nextjs.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    // githubUrl: "https://github.com/sandipbisen/portfolio-website",
-    // url: "https://sandipbisen.dev",
-    // tags: ["Next.js", "Sass", "Web Development"],
+    // githubUrl: "https://kishorbisen.vercel.app",
+    url: "https://kishorbisen.vercel.app",
+    tags: ["HTML", "CSS", "JavaScript"],
+    // preview:"https://pro.aceternity.com/_next/image?url=https%3A%2F%2Fassets.aceternity.com%2Ftemplates%2Fstartup-2.webp&w=1080&q=75"
   },
+  {
+    id: "civil-portfolio",
+    title: "Civil Portfolio",
+    description:
+      "A civil web application developed using HTML, CSS, JavaScript.",
+    icon: "/skills/cpp.png",
+    repoType: RepoType.Public,
+    projectType: ProjectType.Personal,
+    // githubUrl: "https://kishor-site.vercel.app/",
+    url: "https://kishor-site.vercel.app/",
+    tags: ["HTML", "CSS", "JavaScript"],
+    // preview:"https://pro.aceternity.com/_next/image?url=https%3A%2F%2Fassets.aceternity.com%2Ftemplates%2Fstartup-2.webp&w=1080&q=75"
+  },
+  
   // {
   //   id: "bus-reservation-system-management",
   //   title: "Bus Reservation System Management",
