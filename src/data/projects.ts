@@ -115,7 +115,7 @@ const projects: IProjectItem[] = [
     id: "civil-portfolio",
     title: "Civil Portfolio",
     description:
-      "A civil web application developed using HTML, CSS, JavaScript.",
+      "A civil Engineering Portfolio web application developed using HTML, CSS, JavaScript.",
     icon: "/skills/cpp.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
@@ -123,6 +123,18 @@ const projects: IProjectItem[] = [
     url: "https://kishor-site.vercel.app/",
     tags: ["HTML", "CSS", "JavaScript"],
     // preview:"https://pro.aceternity.com/_next/image?url=https%3A%2F%2Fassets.aceternity.com%2Ftemplates%2Fstartup-2.webp&w=1080&q=75"
+  },
+
+  {
+    id: "Photography-website",
+    title: "Photography Website",
+    description:
+      "A photography Portfolio web application is under development. It will be launching soon.",
+    icon: "/skills/react.svg",
+    repoType: RepoType.Public,
+    // projectType: ProjectType.Personal,
+    // githubUrl: "https://github.com/sandipbisen/bus-reservation-system",
+    // tags: ["C++", "OOP", "File Handling"],
   },
   
   // {
